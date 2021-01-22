@@ -1,5 +1,4 @@
 ## PS
 
 ## Contents
----
 ### Sorting
